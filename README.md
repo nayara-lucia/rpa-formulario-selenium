@@ -1,4 +1,4 @@
-# ⚙️ RPA com Selenium!
+# ⚙️ RPA com Selenium e Pyautogui!
 O objetivo desse case é preencher automaticamente um formulário da WEB.
 
 ### Tecnologias utilizadas:
